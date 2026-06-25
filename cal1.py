@@ -1,6 +1,6 @@
 import sys
-int a=int (sys.argv[0])
-int b=int (sys.argv[1])
+a=float (sys.argv[1])
+b=float (sys.argv[2])
 r1=a+b
 r2=a-b
 r3=a*b
